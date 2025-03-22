@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Utsav Chandra 👋</h1>
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="50px"/>
+  <img src="https://giphy.com/gifs/animation-animated-gif-xTiTnxpQ3ghPiB2Hp6" width="50px"/>
 </p>
 
 <p align="center">
@@ -40,7 +40,6 @@ I am a passionate software developer from India.
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart" alt="Dart" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/assembly/assembly-original.svg" title="Assembly" alt="Assembly" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
@@ -49,6 +48,7 @@ I am a passionate software developer from India.
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 </p>
+
 ### :rocket: My Areas of Expertise :
 
 <p>
@@ -60,10 +60,15 @@ I am a passionate software developer from India.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" title="AI" alt="AI" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Utility Software" alt="Utility Software" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" title="Game Development" alt="Game Development" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/security/security-original.svg" title="Cybersecurity" alt="Cybersecurity" width="40" height="40"/>&nbsp;
-  
 </p>
 
+---
+
+### :chart_with_upwards_trend: Most Used Languages and Tools :
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BLANK0104&layout=compact&theme=nightowl" alt="Top Languages" />
+</p>
 
 ---
 
@@ -73,11 +78,12 @@ I am a passionate software developer from India.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=BLANK0104&theme=nightowl" alt="GitHub Streak" />
 </p>
 
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BLANK0104&show_icons=true&theme=nightowl" alt="GitHub Stats" />
+</p>
 
 <p align="center">
   <a href="mailto:Utsavc317@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/utsavchandra822/"><img src="https://img.shields.io/badge/instagram-%23dc2743.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/utsav-chandra-b314aa310/?trk=li_LOL_SPIN_global_careers_jobsgtm_conv_acq_dec2022_spinv1"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" /></a>
 </p>
-
