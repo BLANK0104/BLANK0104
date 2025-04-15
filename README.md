@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Utsav Chandra 👋</h1>
 <p align="center">
-  <img src="https://giphy.com/gifs/animation-animated-gif-xTiTnxpQ3ghPiB2Hp6" width="50px"/>
+  <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="50px" alt="Animated Tech GIF"/>
 </p>
 
 <p align="center">
@@ -20,7 +20,7 @@
 I am a passionate software developer from India.
 
 - 🔭 I’m currently working on **Open Source Projects**
-- 🌱 I’m currently learning **Unity and Blender**
+- 🌱 I’m currently learning **Godot and Blender**
 - 💬 Ask me about **Web Development, Android development, JavaScript, Python and more**
 - 📫 How to reach me: [utsavc317@gmail.com](mailto:Utsavc317@gmail.com)
 - ⚡ Fun fact: I love to meddle with existing hardware and software to create something new or add new features 
