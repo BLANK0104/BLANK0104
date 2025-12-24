@@ -67,7 +67,7 @@ I am a passionate software developer from India.
 ### :chart_with_upwards_trend: Most Used Languages and Tools :
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=BLANK0104&layout=compact&theme=nightowl&hide_border=true&cache_seconds=1800" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BLANK0104&layout=compact&theme=nightowl&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
@@ -75,11 +75,15 @@ I am a passionate software developer from India.
 ### :fire: My Stats :
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BLANK0104&theme=nightowl&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=BLANK0104&theme=nightowl&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=BLANK0104&show_icons=true&theme=nightowl&hide_border=true&cache_seconds=1800" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BLANK0104&show_icons=true&theme=nightowl&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=BLANK0104&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
 </p>
 
 <p align="center">
