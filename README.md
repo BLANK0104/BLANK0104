@@ -67,7 +67,7 @@ I am a passionate software developer from India.
 ### :chart_with_upwards_trend: Most Used Languages and Tools :
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BLANK0104&layout=compact&theme=nightowl" alt="Top Languages" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=BLANK0104&layout=compact&theme=nightowl&hide_border=true&cache_seconds=1800" alt="Top Languages" />
 </p>
 
 ---
@@ -75,11 +75,11 @@ I am a passionate software developer from India.
 ### :fire: My Stats :
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BLANK0104&theme=nightowl" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BLANK0104&theme=nightowl&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BLANK0104&show_icons=true&theme=nightowl" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=BLANK0104&show_icons=true&theme=nightowl&hide_border=true&cache_seconds=1800" alt="GitHub Stats" />
 </p>
 
 <p align="center">
