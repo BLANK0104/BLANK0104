@@ -1,93 +1,116 @@
-<h1 align="center">Hi there, I'm Utsav Chandra 👋</h1>
-<p align="center">
-  <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="50px" alt="Animated Tech GIF"/>
-</p>
+﻿<div align="center">
 
-<p align="center">
-  <a href="https://github.com/BLANK0104"><img src="https://img.shields.io/github/followers/BLANK0104?label=Follow&style=social" alt="GitHub Badge" /></a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Utsav%20Chandra&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Full-Stack%20%C2%B7%20Android%20%C2%B7%20Hardware%20Hacker&descSize=18&descAlignY=62&descAlign=50" width="100%"/>
 
-<p align="center">
-  <a href="https://github.com/BLANK0104">
-    <img src="https://komarev.com/ghpvc/?username=BLANK0104&color=blue&style=flat)" />
+<a href="https://komarev.com/ghpvc/?username=BLANK0104">
+  <img src="https://komarev.com/ghpvc/?username=BLANK0104&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+</a>
+&nbsp;
+<a href="https://github.com/BLANK0104?tab=followers">
+  <img src="https://img.shields.io/github/followers/BLANK0104?style=flat-square&color=blueviolet&label=Followers" alt="Followers"/>
+</a>
+
+</div>
+
+---
+
+<img align="right" alt="Coding" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+###  About Me
+
+-  Currently building **Open Source Projects**
+-  Learning **Godot** and **Blender**
+-  Portfolio  **[utsavchandra-portfolio.vercel.app](https://utsavchandra-portfolio.vercel.app)**
+-  Ask me about **Web Dev, Android, JavaScript, Python**
+-  Reach me at **[utsavc317@gmail.com](mailto:utsavc317@gmail.com)**
+-  Fun fact: I love tinkering with hardware & software to build something new
+
+<br/>
+
+###  Connect With Me
+
+<p>
+  <a href="https://utsavchandra-portfolio.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>&nbsp;
+  <a href="https://www.linkedin.com/in/utsav-chandra-b314aa310/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>&nbsp;
+  <a href="mailto:utsavc317@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>&nbsp;
+  <a href="https://www.instagram.com/utsavchandra822/">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
 
----
-
-### :man_technologist: About Me :
-
-I am a passionate software developer from India.
-
-- 🔭 I’m currently working on **Open Source Projects**
-- 🌱 I’m currently learning **Godot and Blender**
-- 💬 Ask me about **Web Development, Android development, JavaScript, Python and more**
-- 📫 How to reach me: [utsavc317@gmail.com](mailto:Utsavc317@gmail.com)
-- ⚡ Fun fact: I love to meddle with existing hardware and software to create something new or add new features 
+<br clear="right"/>
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+###  Tech Stack
 
-<p>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart" alt="Dart" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+**Languages**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=flat-square&logo=kotlin&logoColor=white)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat-square&logo=csharp&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white)
+![R](https://img.shields.io/badge/R-%23276DC3.svg?style=flat-square&logo=r&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
+
+**Frameworks & Libraries**
+
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat-square&logo=nodedotjs&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=flutter&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=tensorflow&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=flat-square&logo=unity&logoColor=white)
+
+**Databases**
+
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
+
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
+![Android](https://img.shields.io/badge/Android-%233DDC84.svg?style=flat-square&logo=android&logoColor=black)
+![Arduino](https://img.shields.io/badge/Arduino-%2300979D.svg?style=flat-square&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-%23A22846.svg?style=flat-square&logo=raspberrypi&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BLANK0104&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Graph"/>
 </p>
 
-### :rocket: My Areas of Expertise :
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=BLANK0104&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
 
-<p>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="Web Development" alt="Web Development" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="Android Development" alt="Android Development" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" title="Arduino" alt="Arduino" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" title="Hardware Programming" alt="Hardware Programming" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Making Bots" alt="Making Bots" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" title="AI" alt="AI" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Utility Software" alt="Utility Software" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" title="Game Development" alt="Game Development" width="40" height="40"/>&nbsp;
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BLANK0104&theme=tokyonight" width="100%" alt="Profile Summary"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BLANK0104&theme=tokyonight" height="180" alt="Repos Per Language"/>
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BLANK0104&theme=tokyonight" height="180" alt="Most Commit Language"/>
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BLANK0104&theme=tokyonight" height="180" alt="Stats"/>
 </p>
 
 ---
 
-### :chart_with_upwards_trend: Most Used Languages and Tools :
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BLANK0104&layout=compact&theme=nightowl&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
-### :fire: My Stats :
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=BLANK0104&theme=nightowl&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BLANK0104&show_icons=true&theme=nightowl&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=BLANK0104&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
-</p>
-
-<p align="center">
-  <a href="mailto:Utsavc317@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/utsavchandra822/"><img src="https://img.shields.io/badge/instagram-%23dc2743.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/utsav-chandra-b314aa310/?trk=li_LOL_SPIN_global_careers_jobsgtm_conv_acq_dec2022_spinv1"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" /></a>
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+</div>
