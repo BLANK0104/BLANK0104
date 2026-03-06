@@ -1,116 +1,349 @@
-﻿<div align="center">
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Utsav%20Chandra&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Full-Stack%20%C2%B7%20Android%20%C2%B7%20Hardware%20Hacker&descSize=18&descAlignY=62&descAlign=50" width="100%"/>
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                         H E A D E R                               -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 
-<a href="https://komarev.com/ghpvc/?username=BLANK0104">
-  <img src="https://komarev.com/ghpvc/?username=BLANK0104&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views"/>
-</a>
-&nbsp;
-<a href="https://github.com/BLANK0104?tab=followers">
-  <img src="https://img.shields.io/github/followers/BLANK0104?style=flat-square&color=blueviolet&label=Followers" alt="Followers"/>
-</a>
-
-</div>
-
----
-
-<img align="right" alt="Coding" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-
-###  About Me
-
--  Currently building **Open Source Projects**
--  Learning **Godot** and **Blender**
--  Portfolio  **[utsavchandra-portfolio.vercel.app](https://utsavchandra-portfolio.vercel.app)**
--  Ask me about **Web Dev, Android, JavaScript, Python**
--  Reach me at **[utsavc317@gmail.com](mailto:utsavc317@gmail.com)**
--  Fun fact: I love tinkering with hardware & software to build something new
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=1&section=header" width="100%"/>
 
 <br/>
 
-###  Connect With Me
+```
+                                                                              
+    ██╗   ██╗████████╗███████╗ █████╗ ██╗   ██╗                               
+    ██║   ██║╚══██╔══╝██╔════╝██╔══██╗██║   ██║                               
+    ██║   ██║   ██║   ███████╗███████║██║   ██║                               
+    ██║   ██║   ██║   ╚════██║██╔══██║╚██╗ ██╔╝                               
+    ╚██████╔╝   ██║   ███████║██║  ██║ ╚████╔╝                                
+     ╚═════╝    ╚═╝   ╚══════╝╚═╝  ╚═╝  ╚═══╝                                
+                                                                              
+     C H A N D R A                                                            
+                                                                              
+     [ FULL-STACK ]  //  [ ANDROID ]  //  [ HARDWARE HACKER ]                 
+                                                                              
+```
 
-<p>
-  <a href="https://utsavchandra-portfolio.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>&nbsp;
-  <a href="https://www.linkedin.com/in/utsav-chandra-b314aa310/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>&nbsp;
-  <a href="mailto:utsavc317@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>&nbsp;
-  <a href="https://www.instagram.com/utsavchandra822/">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=4000&pause=1000&color=58a6ff&center=true&vCenter=true&repeat=true&width=600&height=30&lines=%3E+initializing+system...;%3E+loading+modules...+done.;%3E+establishing+uplink...+connected.;%3E+welcome+to+the+workspace+of+utsav+chandra." alt="Typing SVG"/>
 
-<br clear="right"/>
+<br/>
 
----
+<a href="https://komarev.com/ghpvc/?username=BLANK0104">
+  <img src="https://komarev.com/ghpvc/?username=BLANK0104&color=0d1117&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views"/>
+</a>
+<img src="https://img.shields.io/github/followers/BLANK0104?style=flat-square&color=0d1117&labelColor=0d1117&logo=github&logoColor=58a6ff&label=FOLLOWERS" alt="Followers"/>
+<img src="https://img.shields.io/github/stars/BLANK0104?style=flat-square&color=0d1117&labelColor=0d1117&logo=github&logoColor=58a6ff&label=STARS" alt="Stars"/>
 
-###  Tech Stack
+</div>
 
-**Languages**
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=flat-square&logo=kotlin&logoColor=white)
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat-square&logo=csharp&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white)
-![R](https://img.shields.io/badge/R-%23276DC3.svg?style=flat-square&logo=r&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
+<br/>
 
-**Frameworks & Libraries**
+<table>
+<tr>
+<td valign="top" width="50%">
 
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat-square&logo=nodedotjs&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=flutter&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=tensorflow&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=flat-square&logo=unity&logoColor=white)
+```yaml
+# ══════════════════════════════════════
+#          S Y S T E M . Y A M L
+# ══════════════════════════════════════
 
-**Databases**
+identity:
+  name: "Utsav Chandra"
+  handle: "BLANK0104"
+  location: "India"
+  role: "Full-Stack Developer"
 
-![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
+currently:
+  building: "Open Source Projects"
+  exploring: "Godot + Blender"
+  obsessed_with: "Making hardware talk
+                   to software"
 
-**Tools & Platforms**
+contact:
+  portfolio: "utsavchandra-portfolio
+              .vercel.app"
+  email: "utsavc317@gmail.com"
+  linkedin: "/in/utsav-chandra"
+```
 
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
-![Android](https://img.shields.io/badge/Android-%233DDC84.svg?style=flat-square&logo=android&logoColor=black)
-![Arduino](https://img.shields.io/badge/Arduino-%2300979D.svg?style=flat-square&logo=arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-%23A22846.svg?style=flat-square&logo=raspberrypi&logoColor=white)
+</td>
+<td valign="top" width="50%">
 
----
+```js
+/**
+ * @file    philosophy.js
+ * @author  BLANK0104
+ * @desc    What drives the code.
+ */
 
-### 📊 GitHub Stats
+const manifesto = {
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BLANK0104&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Graph"/>
-</p>
+  believe_in: [
+    "Code that solves real problems",
+    "Hardware you can touch and break",
+    "Open source as a way of life",
+    "Shipping > Perfecting",
+  ],
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=BLANK0104&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
+  approach: () => {
+    // Step 1: Dismantle it.
+    // Step 2: Understand it.
+    // Step 3: Rebuild it better.
+    return "something that matters";
+  },
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BLANK0104&theme=tokyonight" width="100%" alt="Profile Summary"/>
-</p>
+};
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BLANK0104&theme=tokyonight" height="180" alt="Repos Per Language"/>
-  &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BLANK0104&theme=tokyonight" height="180" alt="Most Commit Language"/>
-  &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BLANK0104&theme=tokyonight" height="180" alt="Stats"/>
-</p>
+module.exports = manifesto;
+```
 
----
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+
+```
+ ╔══════════════════════════════════════════════════════════════════════════╗
+ ║                                                                          ║
+ ║    T  E  C  H     A  R  S  E  N  A  L                                    ║
+ ║                                                                          ║
+ ║    "I pick the right tool, not the popular one."                         ║
+ ║                                                                          ║
+ ╚══════════════════════════════════════════════════════════════════════════╝
+```
+
+<br/>
+
+<!-- ── LANGUAGES ── -->
+
+<details>
+<summary><kbd> LANGUAGES </kbd></summary>
+<br/>
+<table>
+<tr>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=js" width="40"/><br/><sub>JavaScript</sub></td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=py" width="40"/><br/><sub>Python</sub></td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=java" width="40"/><br/><sub>Java</sub></td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=kotlin" width="40"/><br/><sub>Kotlin</sub></td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=cpp" width="40"/><br/><sub>C++</sub></td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=c" width="40"/><br/><sub>C</sub></td>
+</tr>
+<tr>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=cs" width="40"/><br/><sub>C#</sub></td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=dart" width="40"/><br/><sub>Dart</sub></td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=r" width="40"/><br/><sub>R</sub></td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=html" width="40"/><br/><sub>HTML5</sub></td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=css" width="40"/><br/><sub>CSS3</sub></td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=bash" width="40"/><br/><sub>Bash</sub></td>
+</tr>
+</table>
+</details>
+
+<!-- ── FRAMEWORKS ── -->
+
+<details>
+<summary><kbd> FRAMEWORKS & ENGINES </kbd></summary>
+<br/>
+<table>
+<tr>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=react" width="40"/><br/><sub>React</sub></td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=nodejs" width="40"/><br/><sub>Node.js</sub></td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=flutter" width="40"/><br/><sub>Flutter</sub></td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=tensorflow" width="40"/><br/><sub>TensorFlow</sub></td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=unity" width="40"/><br/><sub>Unity</sub></td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=godot" width="40"/><br/><sub>Godot</sub></td>
+</tr>
+</table>
+</details>
+
+<!-- ── DATABASES ── -->
+
+<details>
+<summary><kbd> DATA LAYER </kbd></summary>
+<br/>
+<table>
+<tr>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=mysql" width="40"/><br/><sub>MySQL</sub></td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=mongodb" width="40"/><br/><sub>MongoDB</sub></td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=postgres" width="40"/><br/><sub>PostgreSQL</sub></td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=firebase" width="40"/><br/><sub>Firebase</sub></td>
+</tr>
+</table>
+</details>
+
+<!-- ── TOOLS ── -->
+
+<details>
+<summary><kbd> TOOLS & HARDWARE </kbd></summary>
+<br/>
+<table>
+<tr>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=git" width="40"/><br/><sub>Git</sub></td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=github" width="40"/><br/><sub>GitHub</sub></td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=docker" width="40"/><br/><sub>Docker</sub></td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=linux" width="40"/><br/><sub>Linux</sub></td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=vscode" width="40"/><br/><sub>VS Code</sub></td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=figma" width="40"/><br/><sub>Figma</sub></td>
+</tr>
+<tr>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=androidstudio" width="40"/><br/><sub>Android Studio</sub></td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=arduino" width="40"/><br/><sub>Arduino</sub></td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=raspberrypi" width="40"/><br/><sub>Raspberry Pi</sub></td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=blender" width="40"/><br/><sub>Blender</sub></td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=postman" width="40"/><br/><sub>Postman</sub></td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=vercel" width="40"/><br/><sub>Vercel</sub></td>
+</tr>
+</table>
+</details>
+
+<br/>
+
 </div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+<div align="center">
+
+```
+ ╔══════════════════════════════════════════════════════════════════════════╗
+ ║                                                                          ║
+ ║    M  E  T  R  I  C  S                                                   ║
+ ║                                                                          ║
+ ╚══════════════════════════════════════════════════════════════════════════╝
+```
+
+<br/>
+
+<!-- ── TROPHY SHELF ── -->
+
+<img src="https://github-profile-trophy.vercel.app/?username=BLANK0104&theme=darkhub&no-frame=true&no-bg=true&column=8&margin-w=10" width="95%"/>
+
+<br/><br/>
+
+<!-- ── ACTIVITY GRAPH ── -->
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=BLANK0104&custom_title=CONTRIBUTION%20FREQUENCY&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=161b22" width="95%"/>
+
+<br/><br/>
+
+<!-- ── CORE STATS ── -->
+
+<img src="https://streak-stats.demolab.com/?user=BLANK0104&hide_border=true&background=0d1117&stroke=21262d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=484f58" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=BLANK0104&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff&include_all_commits=true&count_private=true&custom_title=STATISTICS" width="48%"/>
+
+<br/><br/>
+
+<!-- ── PROFILE SUMMARY ── -->
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BLANK0104&theme=github_dark" width="95%"/>
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BLANK0104&layout=donut-vertical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=10&custom_title=LANGUAGE%20DISTRIBUTION" width="30%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BLANK0104&theme=github_dark" width="30%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BLANK0104&theme=github_dark&utcOffset=5.5" width="30%"/>
+
+<br/><br/>
+
+<!-- ── 3D CONTRIBUTION CALENDAR ── -->
+
+```
+ ┌──────────────────────────────────────────────┐
+ │    3D  CONTRIBUTION  CALENDAR                │
+ └──────────────────────────────────────────────┘
+```
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BLANK0104/BLANK0104/output/profile-night-green.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BLANK0104/BLANK0104/output/profile-green-animate.svg"/>
+  <img alt="3D Contribution Calendar" src="https://raw.githubusercontent.com/BLANK0104/BLANK0104/output/profile-night-green.svg" width="95%"/>
+</picture>
+
+<br/><br/>
+
+<!-- ── SNAKE ANIMATION ── -->
+
+```
+ ┌──────────────────────────────────────────────┐
+ │    SNAKE  CONSUMING  CONTRIBUTIONS           │
+ └──────────────────────────────────────────────┘
+```
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BLANK0104/BLANK0104/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BLANK0104/BLANK0104/output/github-contribution-grid-snake.svg"/>
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/BLANK0104/BLANK0104/output/github-contribution-grid-snake-dark.svg" width="95%"/>
+</picture>
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+<div align="center">
+
+```
+ ╔══════════════════════════════════════════════════════════════════════════╗
+ ║                                                                          ║
+ ║    E S T A B L I S H   C O N T A C T                                     ║
+ ║                                                                          ║
+ ╚══════════════════════════════════════════════════════════════════════════╝
+```
+
+<br/>
+
+```
+  PORTFOLIO  >>>  utsavchandra-portfolio.vercel.app
+  LINKEDIN   >>>  linkedin.com/in/utsav-chandra-b314aa310
+  EMAIL      >>>  utsavc317@gmail.com
+  GITHUB     >>>  github.com/BLANK0104
+```
+
+<br/>
+
+<a href="https://utsavchandra-portfolio.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-0d1117?style=for-the-badge&logo=vercel&logoColor=58a6ff"/></a>
+<a href="https://www.linkedin.com/in/utsav-chandra-b314aa310/"><img src="https://img.shields.io/badge/LINKEDIN-0d1117?style=for-the-badge&logo=linkedin&logoColor=58a6ff"/></a>
+<a href="mailto:utsavc317@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0d1117?style=for-the-badge&logo=gmail&logoColor=58a6ff"/></a>
+<a href="https://github.com/BLANK0104"><img src="https://img.shields.io/badge/GITHUB-0d1117?style=for-the-badge&logo=github&logoColor=58a6ff"/></a>
+
+<br/><br/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="70%"/>
+
+<br/><br/>
+
+```
+ ┌─────────────────────────────────────────────────────────────────────────┐
+ │                                                                         │
+ │    STATUS  >>>  Building the next thing.                                │
+ │    UPTIME  >>>  Since the first "Hello, World!"                         │
+ │    SIGNAL  >>>  Strong.                                                 │
+ │                                                                         │
+ │    "Talk is cheap. Show me the code."  -- Linus Torvalds                │
+ │                                                                         │
+ └─────────────────────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=1&section=footer" width="100%"/>
+
