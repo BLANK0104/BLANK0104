@@ -257,7 +257,7 @@ class Developer:
 <!-- ── CORE STATS ── -->
 
 <img src="https://streak-stats.demolab.com/?user=BLANK0104&hide_border=true&background=0d1117&stroke=21262d&ring=a855f7&fire=a855f7&currStreakLabel=a855f7&sideLabels=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=484f58" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api?username=BLANK0104&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=8b949e&icon_color=a855f7&include_all_commits=true&count_private=true&custom_title=STATISTICS" width="48%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BLANK0104&theme=github_dark" width="48%"/>
 
 <br/><br/>
 
@@ -267,7 +267,7 @@ class Developer:
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BLANK0104&layout=donut-vertical&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=8b949e&langs_count=10&custom_title=LANGUAGE%20DISTRIBUTION" width="30%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BLANK0104&theme=github_dark" width="30%"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BLANK0104&theme=github_dark" width="30%"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BLANK0104&theme=github_dark&utcOffset=5.5" width="30%"/>
 
