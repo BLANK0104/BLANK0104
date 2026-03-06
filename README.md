@@ -9,18 +9,18 @@
 <br/>
 
 ```
-                                                                              
-    ██╗   ██╗████████╗███████╗ █████╗ ██╗   ██╗                               
-    ██║   ██║╚══██╔══╝██╔════╝██╔══██╗██║   ██║                               
-    ██║   ██║   ██║   ███████╗███████║██║   ██║                               
-    ██║   ██║   ██║   ╚════██║██╔══██║╚██╗ ██╔╝                               
-    ╚██████╔╝   ██║   ███████║██║  ██║ ╚████╔╝                                
-     ╚═════╝    ╚═╝   ╚══════╝╚═╝  ╚═╝  ╚═══╝                                
-                                                                              
-     C H A N D R A                                                            
-                                                                              
-     [ FULL-STACK ]  //  [ ANDROID ]  //  [ HARDWARE HACKER ]                 
-                                                                              
+                                                                                
+              ██╗   ██╗████████╗███████╗ █████╗ ██╗   ██╗                       
+              ██║   ██║╚══██╔══╝██╔════╝██╔══██╗██║   ██║                       
+              ██║   ██║   ██║   ███████╗███████║██║   ██║                       
+              ██║   ██║   ██║   ╚════██║██╔══██║╚██╗ ██╔╝                       
+              ╚██████╔╝   ██║   ███████║██║  ██║ ╚████╔╝                        
+               ╚═════╝    ╚═╝   ╚══════╝╚═╝  ╚═╝  ╚═══╝                        
+                                                                                
+                           C H A N D R A                                        
+                                                                                
+           [ FULL-STACK ]  //  [ ANDROID ]  //  [ HARDWARE HACKER ]             
+                                                                                
 ```
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=4000&pause=1000&color=58a6ff&center=true&vCenter=true&repeat=true&width=600&height=30&lines=%3E+initializing+system...;%3E+loading+modules...+done.;%3E+establishing+uplink...+connected.;%3E+welcome+to+the+workspace+of+utsav+chandra." alt="Typing SVG"/>
@@ -41,12 +41,12 @@
 
 <table>
 <tr>
-<td valign="top" width="50%">
+<td valign="top" width="33%">
 
 ```yaml
-# ══════════════════════════════════════
-#          S Y S T E M . Y A M L
-# ══════════════════════════════════════
+# ════════════════════════════
+#     S Y S T E M . Y A M L
+# ════════════════════════════
 
 identity:
   name: "Utsav Chandra"
@@ -57,8 +57,7 @@ identity:
 currently:
   building: "Open Source Projects"
   exploring: "Godot + Blender"
-  obsessed_with: "Making hardware talk
-                   to software"
+  obsessed_with: "Hardware <-> Software"
 
 contact:
   portfolio: "utsavchandra-portfolio
@@ -68,34 +67,59 @@ contact:
 ```
 
 </td>
-<td valign="top" width="50%">
+<td valign="top" width="34%">
 
 ```js
 /**
  * @file    philosophy.js
  * @author  BLANK0104
- * @desc    What drives the code.
  */
 
 const manifesto = {
 
   believe_in: [
     "Code that solves real problems",
-    "Hardware you can touch and break",
+    "Hardware you can touch & break",
     "Open source as a way of life",
     "Shipping > Perfecting",
   ],
 
   approach: () => {
-    // Step 1: Dismantle it.
-    // Step 2: Understand it.
-    // Step 3: Rebuild it better.
+    // 1. Dismantle it.
+    // 2. Understand it.
+    // 3. Rebuild it better.
     return "something that matters";
   },
 
 };
+```
 
-module.exports = manifesto;
+</td>
+<td valign="top" width="33%">
+
+```python
+# ════════════════════════════
+#     t o o l b o x . p y
+# ════════════════════════════
+
+class Developer:
+    """What I bring to the table."""
+
+    domains = [
+        "Full-Stack Web",
+        "Android Native",
+        "Hardware / IoT",
+        "AI & ML Pipelines",
+        "Game Dev (Godot)",
+        "3D (Blender)",
+    ]
+
+    @staticmethod
+    def solve(problem):
+        while not problem.solved:
+            problem.debug()
+            problem.iterate()
+        return problem.ship()
 ```
 
 </td>
@@ -228,6 +252,9 @@ module.exports = manifesto;
 
 <img src="https://github-profile-trophy.vercel.app/?username=BLANK0104&theme=darkhub&no-frame=true&no-bg=true&column=8&margin-w=10" width="95%"/>
 
+<!-- If the above breaks, the backup mirror below will work -->
+<!-- <img src="https://github-trophies.vercel.app/?username=BLANK0104&theme=darkhub&no-frame=true&no-bg=true&column=8&margin-w=10" width="95%"/> -->
+
 <br/><br/>
 
 <!-- ── ACTIVITY GRAPH ── -->
@@ -265,11 +292,7 @@ module.exports = manifesto;
 
 <br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BLANK0104/BLANK0104/output/profile-night-green.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BLANK0104/BLANK0104/output/profile-green-animate.svg"/>
-  <img alt="3D Contribution Calendar" src="https://raw.githubusercontent.com/BLANK0104/BLANK0104/output/profile-night-green.svg" width="95%"/>
-</picture>
+<img src="https://raw.githubusercontent.com/BLANK0104/BLANK0104/output/profile-3d-contrib/profile-night-green.svg" width="95%"/>
 
 <br/><br/>
 

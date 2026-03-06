@@ -2,15 +2,20 @@ name: Generate Profile Animations
 
 on:
   schedule:
-    - cron: "0 0 * * *" # runs daily at midnight UTC
-  workflow_dispatch: # allows manual trigger
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
-  # ── Snake Animation ──────────────────────────────────────────
-  snake:
+  generate:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 15
+    permissions:
+      contents: write
     steps:
+      # ── Snake ──
       - name: Generate Snake
         uses: Platane/snk/svg-only@v3
         with:
@@ -19,20 +24,7 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Push Snake SVGs
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-          keep_history: true
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-  # ── 3D Contribution Calendar ─────────────────────────────────
-  contrib-3d:
-    runs-on: ubuntu-latest
-    timeout-minutes: 10
-    steps:
+      # ── 3D Contribution Calendar ──
       - uses: actions/checkout@v4
 
       - name: Generate 3D Contribution Calendar
@@ -41,11 +33,17 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
 
-      - name: Push 3D Calendar
+      # ── Merge outputs into dist/ ──
+      - name: Copy 3D calendar into dist
+        run: |
+          cp -r profile-3d-contrib/* dist/
+
+      # ── Push everything at once ──
+      - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
-          build_dir: profile-3d-contrib
+          build_dir: dist
           keep_history: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
