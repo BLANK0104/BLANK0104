@@ -1,4 +1,4 @@
-<div align="center">
+﻿<div align="center">
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 <!--                         H E A D E R                               -->
@@ -23,15 +23,15 @@
                                                                                 
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=4000&pause=1000&color=58a6ff&center=true&vCenter=true&repeat=true&width=600&height=30&lines=%3E+initializing+system...;%3E+loading+modules...+done.;%3E+establishing+uplink...+connected.;%3E+welcome+to+the+workspace+of+utsav+chandra." alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=4000&pause=1000&color=a855f7&center=true&vCenter=true&repeat=true&width=600&height=30&lines=%3E+initializing+system...;%3E+loading+modules...+done.;%3E+establishing+uplink...+connected.;%3E+welcome+to+the+workspace+of+utsav+chandra." alt="Typing SVG"/>
 
 <br/>
 
 <a href="https://komarev.com/ghpvc/?username=BLANK0104">
-  <img src="https://komarev.com/ghpvc/?username=BLANK0104&color=0d1117&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=BLANK0104&color=a855f7&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views"/>
 </a>
-<img src="https://img.shields.io/github/followers/BLANK0104?style=flat-square&color=0d1117&labelColor=0d1117&logo=github&logoColor=58a6ff&label=FOLLOWERS" alt="Followers"/>
-<img src="https://img.shields.io/github/stars/BLANK0104?style=flat-square&color=0d1117&labelColor=0d1117&logo=github&logoColor=58a6ff&label=STARS" alt="Stars"/>
+<img src="https://img.shields.io/github/followers/BLANK0104?style=flat-square&color=0d1117&labelColor=0d1117&logo=github&logoColor=a855f7&label=FOLLOWERS" alt="Followers"/>
+<img src="https://img.shields.io/github/stars/BLANK0104?style=flat-square&color=0d1117&labelColor=0d1117&logo=github&logoColor=a855f7&label=STARS" alt="Stars"/>
 
 </div>
 
@@ -136,11 +136,11 @@ class Developer:
 
 ```
  ╔══════════════════════════════════════════════════════════════════════════╗
- ║                                                                          ║
- ║    T  E  C  H     A  R  S  E  N  A  L                                    ║
- ║                                                                          ║
- ║    "I pick the right tool, not the popular one."                         ║
- ║                                                                          ║
+ ║                                                                        ║
+ ║    T  E  C  H     A  R  S  E  N  A  L                                  ║
+ ║                                                                        ║
+ ║    "I pick the right tool, not the popular one."                        ║
+ ║                                                                        ║
  ╚══════════════════════════════════════════════════════════════════════════╝
 ```
 
@@ -240,30 +240,24 @@ class Developer:
 
 ```
  ╔══════════════════════════════════════════════════════════════════════════╗
- ║                                                                          ║
- ║    M  E  T  R  I  C  S                                                   ║
- ║                                                                          ║
+ ║                                                                        ║
+ ║    M  E  T  R  I  C  S                                                 ║
+ ║                                                                        ║
  ╚══════════════════════════════════════════════════════════════════════════╝
 ```
 
 <br/>
 
-<!-- ── TROPHY SHELF ── -->
-
-<img src="https://github-profile-trophy.vercel.app/?username=BLANK0104&theme=darkhub&no-frame=true&no-bg=true&column=8&margin-w=10&rank=-C" width="95%"/>
-
-<br/><br/>
-
 <!-- ── ACTIVITY GRAPH ── -->
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=BLANK0104&custom_title=CONTRIBUTION%20FREQUENCY&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=161b22" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=BLANK0104&custom_title=CONTRIBUTION%20FREQUENCY&hide_border=true&bg_color=0d1117&color=a855f7&line=a855f7&point=c9d1d9&area=true&area_color=161b22" width="95%"/>
 
 <br/><br/>
 
 <!-- ── CORE STATS ── -->
 
-<img src="https://streak-stats.demolab.com/?user=BLANK0104&hide_border=true&background=0d1117&stroke=21262d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=484f58" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api?username=BLANK0104&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff&include_all_commits=true&count_private=true&custom_title=STATISTICS" width="48%"/>
+<img src="https://streak-stats.demolab.com/?user=BLANK0104&hide_border=true&background=0d1117&stroke=21262d&ring=a855f7&fire=a855f7&currStreakLabel=a855f7&sideLabels=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=484f58" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=BLANK0104&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=8b949e&icon_color=a855f7&include_all_commits=true&count_private=true&custom_title=STATISTICS" width="48%"/>
 
 <br/><br/>
 
@@ -273,7 +267,7 @@ class Developer:
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BLANK0104&layout=donut-vertical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=10&custom_title=LANGUAGE%20DISTRIBUTION" width="30%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BLANK0104&layout=donut-vertical&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=8b949e&langs_count=10&custom_title=LANGUAGE%20DISTRIBUTION" width="30%"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BLANK0104&theme=github_dark" width="30%"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BLANK0104&theme=github_dark&utcOffset=5.5" width="30%"/>
 
@@ -321,9 +315,9 @@ class Developer:
 
 ```
  ╔══════════════════════════════════════════════════════════════════════════╗
- ║                                                                          ║
- ║    E S T A B L I S H   C O N T A C T                                     ║
- ║                                                                          ║
+ ║                                                                        ║
+ ║    E S T A B L I S H   C O N T A C T                                   ║
+ ║                                                                        ║
  ╚══════════════════════════════════════════════════════════════════════════╝
 ```
 
@@ -338,10 +332,10 @@ class Developer:
 
 <br/>
 
-<a href="https://utsavchandra-portfolio.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-0d1117?style=for-the-badge&logo=vercel&logoColor=58a6ff"/></a>
-<a href="https://www.linkedin.com/in/utsav-chandra-b314aa310/"><img src="https://img.shields.io/badge/LINKEDIN-0d1117?style=for-the-badge&logo=linkedin&logoColor=58a6ff"/></a>
-<a href="mailto:utsavc317@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0d1117?style=for-the-badge&logo=gmail&logoColor=58a6ff"/></a>
-<a href="https://github.com/BLANK0104"><img src="https://img.shields.io/badge/GITHUB-0d1117?style=for-the-badge&logo=github&logoColor=58a6ff"/></a>
+<a href="https://utsavchandra-portfolio.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-0d1117?style=for-the-badge&logo=vercel&logoColor=a855f7"/></a>
+<a href="https://www.linkedin.com/in/utsav-chandra-b314aa310/"><img src="https://img.shields.io/badge/LINKEDIN-0d1117?style=for-the-badge&logo=linkedin&logoColor=a855f7"/></a>
+<a href="mailto:utsavc317@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0d1117?style=for-the-badge&logo=gmail&logoColor=a855f7"/></a>
+<a href="https://github.com/BLANK0104"><img src="https://img.shields.io/badge/GITHUB-0d1117?style=for-the-badge&logo=github&logoColor=a855f7"/></a>
 
 <br/><br/>
 
