@@ -250,10 +250,7 @@ class Developer:
 
 <!-- ── TROPHY SHELF ── -->
 
-<img src="https://github-profile-trophy.vercel.app/?username=BLANK0104&theme=darkhub&no-frame=true&no-bg=true&column=8&margin-w=10" width="95%"/>
-
-<!-- If the above breaks, the backup mirror below will work -->
-<!-- <img src="https://github-trophies.vercel.app/?username=BLANK0104&theme=darkhub&no-frame=true&no-bg=true&column=8&margin-w=10" width="95%"/> -->
+<img src="https://github-profile-trophy.vercel.app/?username=BLANK0104&theme=darkhub&no-frame=true&no-bg=true&column=8&margin-w=10&rank=-C" width="95%"/>
 
 <br/><br/>
 
@@ -292,7 +289,7 @@ class Developer:
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/BLANK0104/BLANK0104/output/profile-3d-contrib/profile-night-green.svg" width="95%"/>
+<img src="https://raw.githubusercontent.com/BLANK0104/BLANK0104/output/profile-night-green.svg" width="95%"/>
 
 <br/><br/>
 
